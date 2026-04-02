@@ -32,7 +32,7 @@ func Encode(text string, shift int) string {
 		curr_pos := 0
 
 		for position := range alphabet {
-			if alphabet[position] == chars[index] {
+			if alphabet[position] == strings.ToLower(chars[index]) {
 				curr_pos = position
 				break
 			}
