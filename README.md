@@ -2,6 +2,15 @@
 
 An extremely simple and fast implementation of the Caesar cipher in Go.
 
+> **⚠️ This is no longer maintained**
+> 
+> Realistically, it'll still work fine, mostly because it's just the Caesar
+> cipher and literally nothing special, but I'm not going to be updating or working on this
+> unless I absolutely feel like it for whatever reason.
+>
+> There are plenty better solutions and implementations, this one was just made for the
+> learning experience (and fun aspect).
+
 ## Basic Usage
 Example:
 ```go
